@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a Software Development Engineer , passionate a
 ## About Me
 
 - 🌍 I'm from Mumbai.
-- 💼 I work on CoolProjects.
+- 💼 I'm currently working on Cool Projects.
 - 🌱 I'm currently learning Data Structures And Algorithms.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: jaysohani10@gmail.com 
@@ -26,9 +26,9 @@ Welcome to my GitHub profile! I'm a Software Development Engineer , passionate a
 ## Technologies I Work With
 
 - 🚀 Java <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- 🌐 Advanced Java
+- 💻 Advanced Java
 - 📊 MySQL
-- 💻 Web Technologies
+- 🌐 Web Technologies
 
 
 
@@ -54,8 +54,8 @@ I'm always open to connecting with fellow developers, tech enthusiasts, and anyo
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
