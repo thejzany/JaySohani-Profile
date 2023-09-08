@@ -6,7 +6,7 @@
 
 
 
-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jay-sohani-9a44a3194/)
+- [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jay-sohani-9a44a3194/)
 - [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/thejzany/)
 
 Welcome to my GitHub profile! I'm a Software Development Engineer , passionate about Software Development, Data Structures & Algorithms, Problem Solving.
@@ -44,22 +44,16 @@ I'm always open to connecting with fellow developers, tech enthusiasts, and anyo
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
+![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 
 
-<style>
-  div {
-    padding-top: 20px;
-    text-align: center;
-  }
-</style>
 <div>
     <h3>Show some ❤️ by starring some of the repositories!</h3>
 </div>
@@ -68,7 +62,5 @@ I'm always open to connecting with fellow developers, tech enthusiasts, and anyo
 ## Support My Work
 
 Your support is greatly appreciated!
-
 Feel free to reach out, and let's have a chat!
-
 Thanks for stopping by and exploring my GitHub profile. Happy coding! 🚀
