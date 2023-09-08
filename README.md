@@ -4,12 +4,6 @@
 
 ### Hi there, I'm <a href="https://www.linkedin.com/in/jay-sohani-9a44a3194/" target="_blank">Jay Sohani</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<img align="right" src="https://github.com/never-code/never-code/blob/main/developer.gif" alt="Coder GIF" width="420" height="330">
-
-
-
-### Hi there, I'm <a href="https://www.linkedin.com/in/jay-sohani-9a44a3194/" target="_blank">Jay Sohani</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
 
 
 - [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jay-sohani-9a44a3194/)
