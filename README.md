@@ -43,7 +43,7 @@ I'm always open to connecting with fellow developers, tech enthusiasts, and anyo
 
 ## GitHub Stats
 
-![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=thejzany&show_icons=true&bg_color=00000000)
+![thejzany's GitHub stats](https://github-readme-stats.vercel.app/api?username=thejzany&show_icons=true&theme=transparent)
 
 🛠**Tech Stack**
 
