@@ -6,7 +6,7 @@
 
 
 - [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/thejzany/)
-- [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jay-sohani-9a44a3194/)
+- [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thejzany/)
 - [![HackerRank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/thejzany)
 
 Welcome to my GitHub profile! I'm a Software Development Engineer , passionate about Software Development, Data Structures & Algorithms, Problem Solving.
@@ -35,7 +35,7 @@ Welcome to my GitHub profile! I'm a Software Development Engineer , passionate a
 ## Let's Connect
 
 I'm always open to connecting with fellow developers, tech enthusiasts, and anyone interested in what I do. You can find me on:
-- [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jay-sohani-9a44a3194/)
+- [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thejzany/)
 - [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jaysohani10@gmail.com/)
 
 
